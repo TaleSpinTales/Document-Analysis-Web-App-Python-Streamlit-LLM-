@@ -1,0 +1,229 @@
+2025-06-17 20:18:01,031 - INFO - Loading faiss with AVX2 support.
+2025-06-17 20:18:01,031 - INFO - Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+2025-06-17 20:18:01,032 - INFO - Loading faiss.
+2025-06-17 20:18:01,046 - INFO - Successfully loaded faiss.
+2025-06-17 20:18:46,537 - INFO - User question received: הסבר בקצרה על שני המערכות
+2025-06-17 20:18:46,537 - INFO - Constructed prompt sent to LLM: Answer the following based on the document content:
+הסבר בקצרה על שני המערכות
+2025-06-17 20:18:55,564 - INFO - LLM response received successfully.
+2025-06-17 20:18:55,565 - INFO - Confidence estimated as: High
+2025-06-17 20:18:55,566 - INFO - Confidence estimated as: High
+2025-06-17 21:33:04,390 - INFO - Loading faiss with AVX2 support.
+2025-06-17 21:33:04,390 - INFO - Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+2025-06-17 21:33:04,390 - INFO - Loading faiss.
+2025-06-17 21:33:04,465 - INFO - Successfully loaded faiss.
+2025-06-17 21:33:56,965 - INFO - User question received: תכין סיכום של שני הקבצים
+2025-06-17 21:33:56,965 - INFO - Constructed prompt sent to LLM: Answer the following based on the document content:
+תכין סיכום של שני הקבצים
+2025-06-17 21:34:08,842 - INFO - LLM response received successfully.
+2025-06-17 21:34:08,843 - INFO - Confidence estimated as: High
+2025-06-17 21:34:08,844 - INFO - Confidence estimated as: High
+2025-06-17 21:34:20,347 - INFO - User question received: תרשום את זה באנגלית
+2025-06-17 21:34:20,347 - INFO - Constructed prompt sent to LLM: Answer the following based on the document content:
+תרשום את זה באנגלית
+2025-06-17 21:34:23,324 - INFO - LLM response received successfully.
+2025-06-17 21:34:23,325 - INFO - Confidence estimated as: High
+2025-06-17 21:34:23,326 - INFO - Confidence estimated as: High
+2025-06-17 21:34:23,326 - INFO - Confidence estimated as: High
+2025-06-17 21:34:23,327 - INFO - Confidence estimated as: High
+2025-06-17 21:35:34,643 - INFO - User question received: איזה כלים חיצוניים משתמשת המערכת של Eduverse
+2025-06-17 21:35:34,644 - INFO - Constructed prompt sent to LLM: Answer the following based on the document content:
+איזה כלים חיצוניים משתמשת המערכת של Eduverse
+2025-06-17 21:35:37,021 - INFO - LLM response received successfully.
+2025-06-17 21:35:37,021 - INFO - Confidence estimated as: Medium
+2025-06-17 21:35:37,022 - INFO - Confidence estimated as: Medium
+2025-06-17 21:35:37,023 - INFO - Confidence estimated as: Medium
+2025-06-17 21:35:37,023 - INFO - Confidence estimated as: Medium
+2025-06-17 21:35:37,024 - INFO - Confidence estimated as: Medium
+2025-06-17 21:35:37,024 - INFO - Confidence estimated as: Medium
+2025-06-17 21:37:03,297 - INFO - User question received: מי כתב את המאמר ובאיזה שנה
+2025-06-17 21:37:03,297 - INFO - Constructed prompt sent to LLM: Answer the following based on the document content:
+מי כתב את המאמר ובאיזה שנה
+2025-06-17 21:37:04,546 - INFO - LLM response received successfully.
+2025-06-17 21:37:04,546 - INFO - Confidence estimated as: Medium
+2025-06-17 21:37:04,547 - INFO - Confidence estimated as: Medium
+2025-06-17 21:40:32,171 - INFO - Loading faiss with AVX2 support.
+2025-06-17 21:40:32,171 - INFO - Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+2025-06-17 21:40:32,171 - INFO - Loading faiss.
+2025-06-17 21:40:32,189 - INFO - Successfully loaded faiss.
+2025-06-17 21:41:15,222 - INFO - User question received: תן לי סיכום קצר
+2025-06-17 21:41:15,222 - INFO - Constructed prompt sent to LLM: Answer the following based on the document content:
+תן לי סיכום קצר
+2025-06-17 21:41:19,990 - INFO - LLM response received successfully.
+2025-06-17 21:41:19,991 - INFO - Confidence estimated as: Medium
+2025-06-17 21:41:19,992 - INFO - Confidence estimated as: Medium
+2025-06-22 17:47:23,105 - INFO - Loading faiss with AVX2 support.
+2025-06-22 17:47:23,106 - INFO - Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+2025-06-22 17:47:23,106 - INFO - Loading faiss.
+2025-06-22 17:47:23,220 - INFO - Successfully loaded faiss.
+2025-06-22 17:47:39,288 - INFO - User question received: תן לי ניתוח סטטסיקה של זה מסודר
+2025-06-22 17:47:39,288 - INFO - Constructed prompt sent to LLM: Answer the following based on the document content:
+תן לי ניתוח סטטסיקה של זה מסודר
+2025-06-22 17:47:40,838 - INFO - LLM response received successfully.
+2025-06-22 17:47:40,840 - INFO - Confidence estimated as: Medium
+2025-06-22 17:47:40,841 - INFO - Confidence estimated as: Medium
+2025-06-22 17:47:55,325 - INFO - User question received: מה כן אתה יכול לעשות
+2025-06-22 17:47:55,325 - INFO - Constructed prompt sent to LLM: Answer the following based on the document content:
+מה כן אתה יכול לעשות
+2025-06-22 17:47:57,771 - INFO - LLM response received successfully.
+2025-06-22 17:47:57,772 - INFO - Confidence estimated as: Medium
+2025-06-22 17:47:57,772 - INFO - Confidence estimated as: Medium
+2025-06-22 17:47:57,773 - INFO - Confidence estimated as: Medium
+2025-06-22 17:47:57,774 - INFO - Confidence estimated as: Medium
+2025-06-22 17:48:09,160 - INFO - User question received: provide information on the height, shoe size, and gender of individuals.
+2025-06-22 17:48:09,160 - INFO - Constructed prompt sent to LLM: Answer the following based on the document content:
+provide information on the height, shoe size, and gender of individuals.
+2025-06-22 17:48:11,031 - INFO - LLM response received successfully.
+2025-06-22 17:48:11,032 - INFO - Confidence estimated as: Medium
+2025-06-22 17:48:11,032 - INFO - Confidence estimated as: Medium
+2025-06-22 17:48:11,033 - INFO - Confidence estimated as: Medium
+2025-06-22 17:48:11,033 - INFO - Confidence estimated as: Medium
+2025-06-22 17:48:11,034 - INFO - Confidence estimated as: Medium
+2025-06-22 17:48:11,034 - INFO - Confidence estimated as: Medium
+2025-06-22 17:48:27,241 - INFO - User question received: מה המידה הגבוה ביותר
+2025-06-22 17:48:27,241 - INFO - Constructed prompt sent to LLM: Answer the following based on the document content:
+מה המידה הגבוה ביותר
+2025-06-22 17:48:29,329 - INFO - LLM response received successfully.
+2025-06-22 17:48:29,330 - INFO - Confidence estimated as: Medium
+2025-06-22 17:48:29,331 - INFO - Confidence estimated as: Medium
+2025-06-22 17:48:29,331 - INFO - Confidence estimated as: Medium
+2025-06-22 17:48:29,332 - INFO - Confidence estimated as: Medium
+2025-06-22 17:48:29,333 - INFO - Confidence estimated as: Medium
+2025-06-22 17:48:29,333 - INFO - Confidence estimated as: Medium
+2025-06-22 17:48:29,334 - INFO - Confidence estimated as: Medium
+2025-06-22 17:48:29,334 - INFO - Confidence estimated as: Medium
+2025-06-22 17:48:46,215 - INFO - User question received: מה המידה הגבוה ביותר ומה הממוצע הכללי
+2025-06-22 17:48:46,215 - INFO - Constructed prompt sent to LLM: Answer the following based on the document content:
+מה המידה הגבוה ביותר ומה הממוצע הכללי
+2025-06-22 17:48:48,632 - INFO - LLM response received successfully.
+2025-06-22 17:48:48,633 - INFO - Confidence estimated as: Medium
+2025-06-22 17:48:48,634 - INFO - Confidence estimated as: Medium
+2025-06-22 17:48:48,634 - INFO - Confidence estimated as: Medium
+2025-06-22 17:48:48,635 - INFO - Confidence estimated as: Medium
+2025-06-22 17:48:48,635 - INFO - Confidence estimated as: Medium
+2025-06-22 17:48:48,636 - INFO - Confidence estimated as: Medium
+2025-06-22 17:48:48,636 - INFO - Confidence estimated as: Medium
+2025-06-22 17:48:48,637 - INFO - Confidence estimated as: Medium
+2025-06-22 17:48:48,637 - INFO - Confidence estimated as: Medium
+2025-06-22 17:48:48,638 - INFO - Confidence estimated as: Medium
+2025-06-22 17:49:02,438 - INFO - User question received: מה המידה הגבוה ביותר ומה הממוצע הכללי
+2025-06-22 17:49:02,438 - INFO - Constructed prompt sent to LLM: Answer the following based on the document content:
+מה המידה הגבוה ביותר ומה הממוצע הכללי
+2025-06-22 17:49:06,785 - INFO - LLM response received successfully.
+2025-06-22 17:49:06,785 - INFO - Confidence estimated as: High
+2025-06-22 17:49:06,786 - INFO - Confidence estimated as: High
+2025-06-22 17:49:06,787 - INFO - Confidence estimated as: High
+2025-06-22 17:49:06,787 - INFO - Confidence estimated as: High
+2025-06-22 17:49:06,788 - INFO - Confidence estimated as: High
+2025-06-22 17:49:06,788 - INFO - Confidence estimated as: High
+2025-06-22 17:49:06,789 - INFO - Confidence estimated as: High
+2025-06-22 17:49:06,789 - INFO - Confidence estimated as: High
+2025-06-22 17:49:06,790 - INFO - Confidence estimated as: High
+2025-06-22 17:49:06,790 - INFO - Confidence estimated as: High
+2025-06-22 17:49:06,791 - INFO - Confidence estimated as: High
+2025-06-22 17:49:06,791 - INFO - Confidence estimated as: High
+2025-08-19 19:23:36,234 - INFO - Loading faiss with AVX2 support.
+2025-08-19 19:23:36,235 - INFO - Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+2025-08-19 19:23:36,235 - INFO - Loading faiss.
+2025-08-19 19:23:36,377 - INFO - Successfully loaded faiss.
+2025-08-19 19:23:51,256 - INFO - User question received: what is eduverse system
+2025-08-19 19:23:51,256 - INFO - Constructed prompt sent to LLM: Answer the following based on the document content:
+what is eduverse system
+2025-08-19 19:23:54,137 - INFO - LLM response received successfully.
+2025-08-19 19:23:54,138 - INFO - Confidence estimated as: High
+2025-08-19 19:23:54,138 - INFO - Confidence estimated as: High
+2025-08-20 13:54:12,913 - INFO - Loading faiss with AVX2 support.
+2025-08-20 13:54:12,914 - INFO - Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+2025-08-20 13:54:12,914 - INFO - Loading faiss.
+2025-08-20 13:54:13,007 - INFO - Successfully loaded faiss.
+2025-08-20 13:56:07,721 - INFO - User question received: what this all about
+2025-08-20 13:56:07,721 - INFO - Constructed prompt sent to LLM: Answer the following based on the document content:
+what this all about
+2025-08-20 13:56:09,649 - INFO - LLM response received successfully.
+2025-08-20 13:56:09,650 - INFO - Confidence estimated as: High
+2025-08-20 13:56:09,650 - INFO - Confidence estimated as: High
+2025-08-20 13:56:44,914 - INFO - User question received: rewrite this document
+2025-08-20 13:56:44,914 - INFO - Constructed prompt sent to LLM: Answer the following based on the document content:
+rewrite this document
+2025-08-20 13:56:46,594 - INFO - LLM response received successfully.
+2025-08-20 13:56:46,594 - INFO - Confidence estimated as: Medium
+2025-08-20 13:56:46,595 - INFO - Confidence estimated as: Medium
+2025-08-20 13:56:46,595 - INFO - Confidence estimated as: Medium
+2025-08-20 13:56:46,596 - INFO - Confidence estimated as: Medium
+2025-08-20 13:59:40,774 - INFO - Loading faiss with AVX2 support.
+2025-08-20 13:59:40,774 - INFO - Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+2025-08-20 13:59:40,775 - INFO - Loading faiss.
+2025-08-20 13:59:40,787 - INFO - Successfully loaded faiss.
+2025-08-20 14:02:41,654 - INFO - User question received: compare this to documents
+2025-08-20 14:02:41,654 - INFO - Constructed prompt sent to LLM: Answer the following based on the document content:
+compare this to documents
+2025-08-20 14:02:42,636 - INFO - LLM response received successfully.
+2025-08-20 14:02:42,636 - INFO - Confidence estimated as: Medium
+2025-08-20 14:02:42,637 - INFO - Confidence estimated as: Medium
+2025-08-20 14:02:59,563 - INFO - User question received: compare this to documents
+2025-08-20 14:02:59,563 - INFO - Constructed prompt sent to LLM: Answer the following based on the document content:
+compare this to documents
+2025-08-20 14:03:05,230 - INFO - LLM response received successfully.
+2025-08-20 14:03:06,026 - INFO - User question received: compare this to documents
+2025-08-20 14:03:06,026 - INFO - Constructed prompt sent to LLM: Answer the following based on the document content:
+compare this to documents
+2025-08-20 14:03:08,416 - INFO - LLM response received successfully.
+2025-08-20 14:03:08,417 - INFO - Confidence estimated as: Medium
+2025-08-20 14:03:08,417 - INFO - Confidence estimated as: Medium
+2025-08-20 14:03:08,418 - INFO - Confidence estimated as: Medium
+2025-08-20 14:03:08,418 - INFO - Confidence estimated as: Medium
+2025-08-20 14:03:08,419 - INFO - Confidence estimated as: Medium
+2025-08-20 14:03:08,420 - INFO - Confidence estimated as: Medium
+2025-08-20 14:03:29,219 - INFO - User question received: compare this 2 documents
+2025-08-20 14:03:29,219 - INFO - Constructed prompt sent to LLM: Answer the following based on the document content:
+compare this 2 documents
+2025-08-20 14:03:32,045 - INFO - LLM response received successfully.
+2025-08-20 14:03:32,046 - INFO - Confidence estimated as: High
+2025-08-20 14:03:32,046 - INFO - Confidence estimated as: High
+2025-08-20 14:04:02,467 - INFO - User question received: what more can you tell me
+2025-08-20 14:04:02,467 - INFO - Constructed prompt sent to LLM: Answer the following based on the document content:
+what more can you tell me
+2025-08-20 14:04:05,278 - INFO - LLM response received successfully.
+2025-08-20 14:04:05,279 - INFO - Confidence estimated as: High
+2025-08-20 14:04:05,279 - INFO - Confidence estimated as: High
+2025-08-20 14:04:05,280 - INFO - Confidence estimated as: High
+2025-08-20 14:04:05,280 - INFO - Confidence estimated as: High
+2025-08-20 14:24:03,840 - INFO - Loading faiss with AVX2 support.
+2025-08-20 14:24:03,840 - INFO - Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+2025-08-20 14:24:03,840 - INFO - Loading faiss.
+2025-08-20 14:24:03,854 - INFO - Successfully loaded faiss.
+2025-08-20 14:41:02,454 - INFO - Loading faiss with AVX2 support.
+2025-08-20 14:41:02,454 - INFO - Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+2025-08-20 14:41:02,454 - INFO - Loading faiss.
+2025-08-20 14:41:02,467 - INFO - Successfully loaded faiss.
+2025-08-24 18:47:44,288 - INFO - Loading faiss with AVX2 support.
+2025-08-24 18:47:44,289 - INFO - Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+2025-08-24 18:47:44,289 - INFO - Loading faiss.
+2025-08-24 18:47:44,392 - INFO - Successfully loaded faiss.
+2025-08-24 18:47:53,285 - INFO - User question received: higest shoe?
+2025-08-24 18:47:53,285 - INFO - Constructed prompt sent to LLM: Answer the following based on the document content:
+higest shoe?
+2025-08-24 18:47:54,993 - INFO - LLM response received successfully.
+2025-08-24 18:47:54,994 - INFO - Confidence estimated as: Medium
+2025-08-24 18:47:54,994 - INFO - Confidence estimated as: Medium
+2025-08-25 18:02:56,190 - INFO - Loading faiss with AVX2 support.
+2025-08-25 18:02:56,190 - INFO - Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+2025-08-25 18:02:56,190 - INFO - Loading faiss.
+2025-08-25 18:02:56,425 - INFO - Successfully loaded faiss.
+2025-08-25 18:03:18,375 - INFO - User question received: what is eduverse?
+2025-08-25 18:03:18,376 - INFO - Constructed prompt sent to LLM: Answer the following based on the document content:
+what is eduverse?
+2025-08-25 18:03:21,056 - INFO - LLM response received successfully.
+2025-08-25 18:03:21,057 - INFO - Confidence estimated as: High
+2025-08-25 18:03:21,058 - INFO - Confidence estimated as: High
